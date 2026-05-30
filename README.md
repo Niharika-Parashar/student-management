@@ -1,2 +1,2 @@
 # student-management
-it will contain the demo project for student-management 
+it will contain the demo project for student-management on branch main
